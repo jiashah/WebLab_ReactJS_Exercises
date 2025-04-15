@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/WebLab_ReactJS_Exercises/static/js/main.ac7768a6.js",
+    "main.css": "/WebLab_ReactJS_Exercises/static/css/main.a50d5e81.css",
+    "main.js": "/WebLab_ReactJS_Exercises/static/js/main.7a4419be.js",
+    "static/media/avacado.png": "/WebLab_ReactJS_Exercises/static/media/avacado.31814f5facfe12ac3ffb.png",
+    "static/media/profile.png": "/WebLab_ReactJS_Exercises/static/media/profile.1835bf0ebf7c96938ff8.png",
     "index.html": "/WebLab_ReactJS_Exercises/index.html",
-    "main.ac7768a6.js.map": "/WebLab_ReactJS_Exercises/static/js/main.ac7768a6.js.map"
+    "main.a50d5e81.css.map": "/WebLab_ReactJS_Exercises/static/css/main.a50d5e81.css.map",
+    "main.7a4419be.js.map": "/WebLab_ReactJS_Exercises/static/js/main.7a4419be.js.map"
   },
   "entrypoints": [
-    "static/js/main.ac7768a6.js"
+    "static/css/main.a50d5e81.css",
+    "static/js/main.7a4419be.js"
   ]
 }
